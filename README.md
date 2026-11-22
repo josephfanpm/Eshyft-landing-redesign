@@ -2,7 +2,7 @@
 
 A concept redesign of **[eshyft.com/nurses](https://eshyft.com/nurses/)** that leads with a personalized earnings estimate ("You could make $X on ESHYFT"), built on public BLS wage data and a map of real nursing homes nearby. It follows the playbook of **[Airbnb's host landing page](https://www.airbnb.com/host/homes)**.
 
-**Live demo:** https://josephfanpm.github.io/eshyft-landing-redesign/ · **Full case study:** [docs/CASE_STUDY.md](docs/CASE_STUDY.md) · **Requirements:** [docs/PRD.md](docs/PRD.md)
+**Live demo:** https://josephfanpm.github.io/Eshyft-landing-redesign/ · **Full case study:** [docs/CASE_STUDY.md](docs/CASE_STUDY.md) · **Requirements:** [docs/PRD.md](docs/PRD.md)
 
 [![Walkthrough: dragging the shifts slider, opening "how we estimate earnings", switching to Pittsburgh with 12-hour shifts, opening a nursing home on the map, scrolling the page and opening the Get the app QR code](docs/demo/demo.gif)](docs/demo/demo.mp4)
 
